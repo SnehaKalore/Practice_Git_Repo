@@ -5,7 +5,7 @@ class ForgetCode
 {  
     public static void main(String args[])
     {
-    String chr="madam";
+    String chr="Snehamadam";
         String reverse="";
         int len=chr.length();
         
