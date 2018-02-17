@@ -19,7 +19,8 @@ class ForgetCode
         if(chr.equals(reverse))
         {
         System.out.println("The Given String is Palindrome");
-        }else{
+        }
+	else{
                  System.out.println("The Given String is not Palindrome");
         }
     }
