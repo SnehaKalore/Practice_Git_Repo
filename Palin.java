@@ -12,8 +12,8 @@ public class Palin
 		  reverse += str.charAt(i);
 		System.out.println(reverse);
 		if(str.equalsIgnoreCase(reverse))
-		  System.out.println(str + " is a palindrom");
+		  System.out.println(str + " is palindrom");
 		else
-		  System.out.println(str + " is not a palindroom");
+		  System.out.println(str + " is not palindroom");
 	}
 }	
